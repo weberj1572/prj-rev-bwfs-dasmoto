@@ -1,0 +1,33 @@
+.header {
+font-family: Helvetica;
+font-size: 100px;
+font-weight: bold;
+color: khaki;
+background-image: url(pattern.jpeg);
+text-align: center;
+}
+.brushbanner {
+font-family: Helvetica;
+font-size: 32px;
+font-weight: bold;
+color: white;
+background-color: mediumspringgreen;
+}
+.framebanner {
+font-family: Helvetica;
+font-size: 32px;
+font-weight: bold;
+color: white;
+background-color: lightcoral;
+}
+.paintbanner {
+font-family: Helvetica;
+font-size: 32px;
+font-weight: bold;
+color: white;
+background-color: skyblue;
+}
+.entrydeal {
+  font-family: Helvetica;
+  color: blue;
+}
